@@ -1,5 +1,5 @@
 # Audiogids.be
-[![Audiogids](https://img.shields.io/badge/Audiogids-red?style=flat&link=https://audiogids.be)](https://audiogids.be)
+[![Audiogids](https://img.shields.io/badge/Audiogids-blue?style=flat&link=https://audiogids.be)](https://audiogids.be)
 
 Interactieve Audio Tours voor Musea en Tentoonstellingen 🎧🏛️
 
