@@ -1,6 +1,6 @@
 # Narra.tours
 
-[![Narratours](https://img.shields.io/badge/Audiogids-blue?style=flat&link=https://narra.tours)](https://narra.tours)
+[![Narratours](https://img.shields.io/badge/Narratours-blue?style=flat&link=https://narra.tours)](https://narra.tours)
 
 Interactive Audio Tours for Museums and Exhibitions 🎧🏛️
 
