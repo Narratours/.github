@@ -1,10 +1,11 @@
-# Audiogids.be
-[![Audiogids](https://img.shields.io/badge/Audiogids-blue?style=flat&link=https://audiogids.be)](https://audiogids.be)
+# Narra.tours
 
-Interactieve Audio Tours voor Musea en Tentoonstellingen 🎧🏛️
+[![Narratours](https://img.shields.io/badge/Audiogids-blue?style=flat&link=https://narra.tours)](https://narra.tours)
 
-### Bent u een organisator van museums en tentoonstellingen?
+Interactive Audio Tours for Museums and Exhibitions 🎧🏛️
 
-Contacteer ons op [hello@audiogids.be](hello@audiogids.be)
+### Are you an organiser of a musem or exhibition?
+
+Send us a message and we'll help you out! [hello@narra.tours](hello@narra.tours)
 
 Made in Mechelen by [Yordi Verbeeck](https://yordi.net)
